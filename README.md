@@ -13,3 +13,5 @@ the website uses **HTML**, **CSS**, and **JavaScript** to deliver an engaging an
 - **HTML**: For structuring the website content.  
 - **CSS**: For styling and layout design.  
 - **JavaScript**: For interactivity and dynamic elements.  
+
+## Note :- The website is accessed through the indexhome.html file, which serves as the homepage and entry point for all the content.
